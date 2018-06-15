@@ -2,7 +2,7 @@
 
 ### 文章列表
 
-* [react历程分析](.blog/react历程分析.md)
-* [搭建react本地源码测试环境](.blog/搭建react本地源码测试环境.md)
+* [react历程分析](blog/react历程分析.md)
+* [搭建react本地源码测试环境](blog/搭建react本地源码测试环境.md)
 
 >所有该项目内的文章允许转载、更改，但请保留原出处。
