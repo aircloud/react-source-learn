@@ -132,3 +132,8 @@ function Component(props, context, updater) {
 至此，我们的 react 本次源代码测试环境已经搭建完成，另外，这个环境实际上只是用于学习、调试 react 源代码，至于为其贡献内容，则有其他的工作流，这方面我也在研究，也欢迎和我交流。
 
 完。
+
+---
+
+> 系列文章地址：[react-source-learn](https://github.com/aircloud/react-source-learn)
+

@@ -99,3 +99,5 @@ react 团队目前的主要工作集中在 async rendering 方面，这方面的
 * 关于React Components, Elements, 和 Instances，如果你还有一些疑问，可以看一看React官方团队的文章：[React Components, Elements, and Instances](https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html)
 * 如果你倾向于使用 mixins，不妨看看 react 关于取消 mixin的说法：[Mixins Considered Harmful](https://reactjs.org/blog/2016/07/13/mixins-considered-harmful.html)
 * react props 相关的开发模式的建议，我认为目前在使用 react 的程序员都应该了解一下[You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
+
+> 系列文章地址：[react-source-learn](https://github.com/aircloud/react-source-learn)
